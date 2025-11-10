@@ -1,2 +1,2 @@
 # AplikasiCekCuacaSederhana
-Tugas6_Muhammad Rezwan_2310010299
+Tugas 6 - Muhammad Farid Syuhada (2310010416)
